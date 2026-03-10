@@ -1,4 +1,4 @@
-Taste Haven Restaurant Management System (RMS)
+Taste Haven Restaurant Management System (RMS) (Group Project)
 Welcome to the Taste Haven RMS project! This is a Java Swing-based desktop application designed to provide a modern, interactive, and visually appealing interface for a restaurant management system. The application features a homepage with a slideshow, navigation buttons, and sections for menu, reservations, orders, and more.
 
 Features
